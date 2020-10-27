@@ -31,16 +31,19 @@ The algorithms are optimized based on two aspects of the bubble sort, first is t
 
 ## Getting Started
 
-**Just clone this repo and and navigate to the folder.**
+**To run the program on your local machine, follow the steps below.**
 
+```
+git clone https://github.com/smcommits/bubble-sort
+```
 
-**To get a local copy up and running follow these simple example steps.**
+```
+cd bubble-sort
+```
 
-   - Clone this repo.
-   - Navigate to the bubble_sort folder
-   - In your terminal run `ruby main.rb`
-   - You are successful to get a local copy up and running.
-
+```
+ruby bubble_sort.rb
+```
 
 ## Authors
 
