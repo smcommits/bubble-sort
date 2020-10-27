@@ -70,6 +70,4 @@ Give a ⭐️ if you like this project!
 
 - Bubble sort explanation gif image downloaded from [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
-## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
